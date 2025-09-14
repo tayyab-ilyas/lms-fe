@@ -77,3 +77,17 @@ src/
 
 - Email: test@example.com
 - Password: password123
+
+### Media
+
+<img width="1919" height="947" alt="Screenshot 2025-09-15 052227" src="https://github.com/user-attachments/assets/f615ef18-b45e-48a2-abcd-f161e00dffe9" />
+
+<img width="1919" height="932" alt="Screenshot 2025-09-15 052318" src="https://github.com/user-attachments/assets/c92fced0-dd78-431b-a7fa-eed52ec62153" />
+
+<img width="1919" height="942" alt="Screenshot 2025-09-15 052326" src="https://github.com/user-attachments/assets/029f933a-4c33-4c76-8fff-33d7ba57d044" />
+
+<img width="1919" height="940" alt="Screenshot 2025-09-15 052549" src="https://github.com/user-attachments/assets/32976e8f-ac91-466d-882f-f41077f515cf" />
+
+<img width="1918" height="947" alt="Screenshot 2025-09-15 052336" src="https://github.com/user-attachments/assets/f2282824-58e4-4cd5-ac53-f55d0d2acb68" />
+
+
