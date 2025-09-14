@@ -1,10 +1,14 @@
+/* AG Grid imports MUST come first */
+@import "tailwindcss";
+@import "ag-grid-community/styles/ag-grid.css";
+@import "ag-grid-community/styles/ag-theme-alpine.css";
+
+/* Tailwind directives come after imports */
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
-@import "ag-grid-community/styles/ag-grid.css";
-@import "ag-grid-community/styles/ag-theme-alpine.css";
-
+/* Custom AG Grid styling */
 .ag-theme-alpine {
   --ag-header-background-color: #f8fafc;
   --ag-header-foreground-color: #374151;
@@ -12,6 +16,7 @@
   --ag-row-hover-color: #f1f5f9;
 }
 
+/* Custom scrollbar */
 ::-webkit-scrollbar {
   width: 8px;
 }
